@@ -1,6 +1,6 @@
 # 01.typeKINI
 
-![title](https://github.com/fatsKINI/01.typeKINI/blob/main/img/01.typeKINI.svg?raw=true)
+<img src="img/01.typeKINI.svg" alt="title">
 
 中文简介请先前往[这里](https://mp.weixin.qq.com/s/LMMyMxodzIC0UZkd4ybbkA)
 
