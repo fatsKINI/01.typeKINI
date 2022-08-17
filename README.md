@@ -8,7 +8,7 @@
 
 <img src="img/jew.jpg" alt="jew">
 
-<img src="img/1.gif" alt="font">
+<img src="img/1.gif" alt="font" width="100%">
 
 ## Axes
 ### weight 4-120-460
